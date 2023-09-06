@@ -5,7 +5,7 @@
 
 🎨 but that doesnt stop me from loving creativity and dance of colors and waves in a colorful and beautiful design! 
 
- When I'm not coding, you can find me in my bed 🛌
+ When I'm not coding, you can find me sleeping in my bed 🛌
  
  Let's connect and build something awesome together! 🚀💻🎨
  
