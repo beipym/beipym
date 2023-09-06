@@ -1,6 +1,14 @@
 ###
-private payam ?  : Philomath ; 
+👋 Hi there! I'm Payam, a front-end developer and enthusiast. I'm passionate about designing and coding modern, beautiful web experiences that delight users.
 
+🤓 I have a keen interest in both the technical side of coding, think algorithms and clean code .
+
+🎨 but that doesnt stop me from loving creativity and dance of colors and waves in a colorful and beautiful design! 
+
+ When I'm not coding, you can find me in my bed 🛌
+ 
+ Let's connect and build something awesome together! 🚀💻🎨
+ 
 <!--
 **payambei/payambei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
