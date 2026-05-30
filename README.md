@@ -1,11 +1,12 @@
 ###
-~~👋 Hi there! I'm Payam, a front-end developer and enthusiast. I'm passionate about designing and coding modern, beautiful web experiences ~~that delight users.\
-~~🤓 I have a keen interest in both the technical side of coding, think algorithms and clean code .\
-~~🎨 but that doesnt stop me from loving creativity and dance of colors and waves in a colorful and beautiful design!\ 
-~~When I'm not coding, you can find me dreaming about coding or dreaming about launching some startup 🧑‍🚀
+~~👋 Hi there! I'm Payam, a front-end developer and enthusiast. I'm passionate about designing and coding modern, beautiful web experiences~~
+~~that delight users.\
+🤓 I have a keen interest in both the technical side of coding, think algorithms and clean code .\
+🎨 but that doesnt stop me from loving creativity and dance of colors and waves in a colorful and beautiful design!\ 
+When I'm not coding, you can find me dreaming about coding or dreaming about launching some startup 🧑‍🚀~~
 
 /*
- Social media accounts will be added here soon...
+~~Social media accounts will be added here soon...~~
 */
  
  
